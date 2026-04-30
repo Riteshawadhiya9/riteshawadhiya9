@@ -47,6 +47,17 @@
 ![](https://streak-stats.demolab.com/?user=Riteshawadhiya9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riteshawadhiya9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+## Coding Profiles
+
+<a href="https://leetcode.com/u/Riteshawadhiya08/" target="_blank">
+  <img
+    src="https://leetcard.jacoblin.cool/Riteshawadhiya08?theme=radical&font=Port%20Lligat%20Slab"
+    alt="LeetCode Stats"
+  />
+</a>
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Riteshawadhiya9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
