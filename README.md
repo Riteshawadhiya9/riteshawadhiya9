@@ -45,9 +45,33 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Riteshawadhiya9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Riteshawadhiya9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riteshawadhiya9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## GitHub Overview
 
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://kasroudra-stats-card.onrender.com/user?user=riteshawadhiya9&theme=dracula&layout=compact&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Ritesh's GitHub Stats"
+      />
+    </td>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshawadhiya9&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://github.com/riteshawadhiya9">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riteshawadhiya9&theme=tokyo-night&custom_title=Ritesh's%20Activity%20Graph&hide_border=true"
+    alt="Ritesh's GitHub Activity Graph"
+  />
+</a>
+
+---
 ## Coding Profiles
 
 <a href="https://leetcode.com/u/Riteshawadhiya08/" target="_blank">
