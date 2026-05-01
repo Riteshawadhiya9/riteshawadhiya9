@@ -72,14 +72,11 @@
 </a>
 
 ---
-## Coding Profiles
+## 🚀 Coding Profiles
 
-<a href="https://leetcode.com/u/Riteshawadhiya08/" target="_blank">
-  <img
-    src="https://leetcard.jacoblin.cool/Riteshawadhiya08?theme=radical&font=Port%20Lligat%20Slab"
-    alt="LeetCode Stats"
-  />
-</a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Riteshawadhiya08?theme=radical&font=Port%20Lligat%20Slab&ext=heatmap" />
+</p>
 
 ---
 ## 🏆 GitHub Trophies
