@@ -1,4 +1,20 @@
+<!-- Top badge + header -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riteshawadhya9.riteshawadhya9" />
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/Riteshawadhiya9/riteshawadhiya9/refs/heads/main/assets/img/readmebox.svg" alt="This is Ritesh" />
+  </a>
+</p>
+<div align="center">
+  <a href="#">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&duration=1200&pause=2000&color=80F799&repeat=false&width=950&height=45&lines=Exploring+the+endless+possibilities+of+web+development%2C+building+solutions+that+make+an+impact."
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
+---
 # 💫 Hi 👋, I'm Ritesh Awadhiya  
 ### 🚀 MERN Stack Developer | Exploring Generative AI & Agentic Systems  
 
